@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nghia11n/Banana-Hub/main/bananahub.lua"))()
+wait(60)
 function BuyFruit(fruit)
     local args = {
         [1] = "PurchaseRawFruit",
